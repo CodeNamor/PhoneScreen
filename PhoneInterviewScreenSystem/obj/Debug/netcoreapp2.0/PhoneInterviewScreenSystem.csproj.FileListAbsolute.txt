@@ -1,0 +1,11 @@
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\bin\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.deps.json
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\bin\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.runtimeconfig.json
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\bin\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.runtimeconfig.dev.json
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\bin\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.dll
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\bin\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.pdb
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\obj\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.csprojResolveAssemblyReference.cache
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\obj\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.csproj.CoreCompileInputs.cache
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\obj\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.AssemblyInfoInputs.cache
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\obj\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.AssemblyInfo.cs
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\obj\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.dll
+C:\Users\derek\OneDrive\Documents\Visual Studio 2017\Projects\PhoneInterviewScreenSystem\PhoneInterviewScreenSystem\obj\Debug\netcoreapp2.0\PhoneInterviewScreenSystem.pdb

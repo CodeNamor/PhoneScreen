@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "PhoneScreen";
+}
+
+<h2>PhoneScreen</h2>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/images/codepair (2).jpg" alt="Phone" class="img-responsive" />
+        </div>
+    </div>
+</div>
+<div id="myQuestionaire" class="col-lg-12">
+    <p><strong>Please have the applicant answer the below questionair in order to assess any strengths or weaknesses that they may have</strong></p>
+    <ol class="list-group">
+        <li class="col-lg-6"><p>What is your favorite programming language and why?</p>
+            <input type="text" id="favoriteProgrammingLanguage" class="col-lg-6"/>
+        </li>
+        <li class="col-lg-6"><p>Tabs or Spaces and why?</p>
+            <input type="text" id="TabsOrSpaces" class="col-lg-6"/>
+        </li>
+        <li class="col-lg-6"><p>Do you have a GitHub Account?</p>
+            <input type="text" id="GitHub" class="col-lg-6"/>
+        </li>
+        <li class="col-lg-6"><p>What does JSON stand for?</p>
+            <input type="text" id="JSONDef" class="col-lg-6"/>
+        </li>
+    </ol>
+    <ul>
+            <a href="mailto:ckozik@bizlibrary.com?subject=Lets+Hire+Derek&body=Carli, Lets get Derek in for an Interview cause he would be an Awesome employee here!!!" class="btn-primary">Email Results to HR</a>
+    </ul>
+</div>
